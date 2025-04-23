@@ -2,7 +2,7 @@
 
 Detecting and classifying **euro coins** in images using **geometric calibration** techniques for accurate measurement of coin diameters.
 
-> 🔍 Built as part of the “Computer Vision and Image Processing” course @ LUT University 
+> 🔍 Built as part of the “Computer Vision and Image Processing” course @ LUT University  
 > 👨‍💻 Contributors: Omer AHMED, Mihaly FREI
 
 <p align="center">
