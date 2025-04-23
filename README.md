@@ -6,7 +6,7 @@ Detecting and classifying **euro coins** in images using **geometric calibration
 > 👨‍💻 Contributors: Omer AHMED, Mihaly FREI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-MATLAB-blue?style=for-the-badge&logo=matlab&logoColor=white">
+  <img src="https://img.shields.io/badge/Made%20With-MATLAB-orange?style=for-the-badge&logo=matlab&logoColor=white">
 </p>
 
 ---
